@@ -5,6 +5,6 @@ package by.junior;
  */
 public class SimpleJava {
     public static void main(String[] args) {
-        System.out.println("Hello");
+        System.out.println("Hello world");
     }
 }
